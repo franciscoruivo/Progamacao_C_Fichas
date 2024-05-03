@@ -41,7 +41,7 @@ void moveR(ret* p, int dx, int dy){
 void interseR(ret* a,ret* b){
     if(a->canto.x>b->canto.x && a->canto.y<b->canto.y){
         if(a->canto.x+a->larg>b->canto.x+b->larg && a->canto.y+a->alt<b->canto.y+b->alt){
-            printf("/n Os quadrados intertam ! penso eu xD");
+           //idk
         }
     }
 }
