@@ -54,9 +54,6 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 */
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 //EX14  indicado nos argumentos a data 12-01-2024 deve escrever 12 de janeiro de 2024.
 int main(int argc, char *argv[]) {
     if (argc != 2) {
